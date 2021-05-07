@@ -11,5 +11,7 @@ The database uses the [Data Format for Digital Linguistics][DaFoDiL] as its unde
 ALTLab's dictionary database is / will be aggregated from the following sources:
 
 * the Cree-to-English portion of Colin Charles' Cree Dictionary (a.k.a. the Lac La Ronge Dictionary) (`LLR`)
+  - See [Notes on the Lac La Ronge Dictionary](./LLR.md)
 
-* an edited version of Arok Wolvengrey's _Cree: Words_ dictionary database (referred to as simply the "Woods Cree" database) (`WC`)
+* an edited version of Arok Wolvengrey's _Cree: Words_ dictionary database (referred to as simply the "Woods Cree" database) (`CW`)
+  - See [Notes on the _Cree: Words_ Dictionary](./CW)
