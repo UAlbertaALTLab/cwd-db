@@ -15,3 +15,5 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 
 * an edited version of Arok Wolvengrey's _Cree: Words_ dictionary database (referred to as simply the "Woods Cree" database) (`CW`)
   - See [Notes on the _Cree: Words_ Dictionary](./CW)
+
+[DaFoDiL]: https://format.digitallinguistics.io
