@@ -28,7 +28,7 @@ oː ~ uː   |  oo  |  ô
    t      |  t   |  t
    ð      |  th  | th
    w      |  w   |  w
-   y      |  y   |  y
+   j      |  y   |  y
 
 ## Sources
 
