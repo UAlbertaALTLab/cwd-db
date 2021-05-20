@@ -10,16 +10,6 @@ The database uses the [Data Format for Digital Linguistics][DaFoDiL] as its unde
 
 The following table shows each grapheme in Woods Cree in the Colin Charles' Modified Roman Orthography (CMRO) and its equivalent in the Standard Roman Orthography (SRO), also with its corresponding value in the International Phonetic Alphabet (IPA).
 
-<style>
-table {
-  font-family:
-    'Gentium Plus',
-    'Charis SIL',
-    'Linux Libertine',
-    'Noto Serif';
-}
-</style>
-
   IPA     | CMRO | SRO
 :--------:|:----:|:--:
    ə      |  u   |  a
