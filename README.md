@@ -6,6 +6,40 @@ This repository contains scripts and documentation for managing ALTLab's Woods C
 
 The database uses the [Data Format for Digital Linguistics][DaFoDiL] as its underlying data format—a set of recommendations for storing linguistic data in JSON.
 
+## Orthography
+
+The following table shows each grapheme in Woods Cree in the Colin Charles' Modified Roman Orthography (CMRO) and its equivalent in the Standard Roman Orthography (SRO), also with its corresponding value in the International Phonetic Alphabet (IPA).
+
+<style>
+table {
+  font-family:
+    'Gentium Plus',
+    'Charis SIL',
+    'Linux Libertine',
+    'Noto Serif';
+}
+</style>
+
+  IPA     | CMRO | SRO
+:--------:|:----:|:--:
+   ə      |  u   |  a
+  aː      |  a   |  â
+t͡ʃ ~ t͡s |  ch  |  c
+   h      |  h   |  h
+   ɪ      |  i   |  i
+  iː      |  e   |  î
+   k      |  k   |  k
+   m      |  m   |  m
+   n      |  n   |  n
+ o ~ ʊ    |  o   |  o
+oː ~ uː   |  oo  |  ô
+   p      |  p   |  p
+ s ~ ʃ    |  s   |  s
+   t      |  t   |  t
+   ð      |  th  | th
+   w      |  w   |  w
+   y      |  y   |  y
+
 ## Sources
 
 ALTLab's dictionary database is / will be aggregated from the following sources:
