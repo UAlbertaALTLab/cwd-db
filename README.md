@@ -30,6 +30,36 @@ oː ~ uː   |  oo  |  ô
    w      |  w   |  w
    j      |  y   |  y
 
+## Syllabics
+
+Woods Cree uses graphemes in the Syllabic orthography in a slightly different way than other Cree dialects. Woods Cree does not use any of the graphemes for /i/. Instead, Woods Cree uses /e/ graphemes for the /i/ sound.
+
+Consonant | i | î | o | ô | a | â | Final
+:--------:|:-:|:-:|:-:|:-:|:-:|:-:| :----:
+N/A       | ᐁ | ᐃ | ᐅ | ᐆ | ᐊ | ᐋ | N/A
+w         | ᐁᐧ | ᐏ | ᐓ | ᐕ | ᐘ | ᐚ | ᐤ
+p         | ᐯ | ᐱ | ᐳ | ᐴ | ᐸ | ᐹ | ᑊ
+t         | ᑌ | ᑎ | ᑐ | ᑑ | ᑕ | ᑖ | ᐟ
+k         | ᑫ | ᑭ | ᑯ | ᑰ | ᑲ | ᑳ | ᐠ
+c         | ᒉ | ᒋ | ᒍ | ᒎ | ᒐ | ᒑ | ᐨ
+m         | ᒣ | ᒥ | ᒧ | ᒨ | ᒪ | ᒫ | ᒼ
+n         | ᓀ | ᓂ | ᓄ | ᓅ | ᓇ | ᓈ | ᐣ
+s         | ᓭ | ᓯ | ᓱ | ᓲ | ᓴ | ᓵ | ᐢ
+y         | ᔦ | ᔨ | ᔪ | ᔫ | ᔭ | ᔮ | ᐩ<sup><a href=#fn-1>1</a></sup> (ᐝ)
+th / ð    | ᖧ | ᖨ | ᖪ | ᖫ | ᖬ | ᖭ | ᙾ
+h         |  |   |   |   |   |   | ᐦ
+hk        |  |   |   |   |   |   | ᕽ
+
+### Other Symbols
+
+SRO | Syllabary
+:--:|:--------:
+ l  |     ᓬ
+ r  |     ᕒ
+ .  |     ᙮
+ w  |     ᐧ
+ \- |  U+202F
+
 ## Sources
 
 ALTLab's dictionary database is / will be aggregated from the following sources:
@@ -40,4 +70,9 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 * an edited version of Arok Wolvengrey's _Cree: Words_ dictionary database (referred to as simply the "Woods Cree" database) (`CW`)
   - See [Notes on the _Cree: Words_ Dictionary](./CW)
 
+## Footnotes
+
+1. <p id=fn-1>Cree writers overwhelmingly prefer using this character, U+1429 CANADIAN SYLLABICS FINAL PLUS ⟨ᐩ⟩, to U+1540 CANADIAN SYLLABICS WEST-CREE Y ⟨ᕀ⟩.</p>
+
+<!-- LINKS -->
 [DaFoDiL]: https://format.digitallinguistics.io
