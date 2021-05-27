@@ -32,7 +32,7 @@ oː ~ uː   |  oo  |  ô
 
 ## Syllabics
 
-Woods Cree uses graphemes in the Syllabic orthography in a slightly different way than other Cree dialects. Woods Cree does not use any of the graphemes for /i/. Instead, Woods Cree uses /e/ graphemes for the /i/ sound.
+Woods Cree uses graphemes in the Syllabic orthography in a slightly different way than other Cree dialects. Woods Cree does not use any of the graphemes for /i/ː. Instead, Woods Cree uses /e/ graphemes for the /iː/ sound.
 
 Consonant | i | î | o | ô | a | â | Final
 :--------:|:-:|:-:|:-:|:-:|:-:|:-:| :----:
