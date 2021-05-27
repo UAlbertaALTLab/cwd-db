@@ -57,7 +57,7 @@ SRO | Syllabary
  l  |     ᓬ
  r  |     ᕒ
  .  |     ᙮
- w  |     ᐧ
+ w  |     ᐧ<sup><a href=#fn-2>2</a></sup>
  \- |  U+202F
 
 ## Sources
@@ -73,6 +73,7 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 ## Footnotes
 
 1. <p id=fn-1>Cree writers overwhelmingly prefer using this character, U+1429 CANADIAN SYLLABICS FINAL PLUS ⟨ᐩ⟩, to U+1540 CANADIAN SYLLABICS WEST-CREE Y ⟨ᕀ⟩.</p>
+2. <p id=fn-2>Please always use composed characters (e.g., ᐘ ᑅ ᑢ ᑿ ᒷ ᓌ ᔁ ᒝ ᔺ ᙼ) rather than using the two code point sequence of syllabic followed by U+1427 CANADIAN SYLLABICS FINAL MIDDLE DOT.</p>
 
 <!-- LINKS -->
 [DaFoDiL]: https://format.digitallinguistics.io
