@@ -37,7 +37,7 @@ Woods Cree uses graphemes in the Syllabic orthography in a slightly different wa
 Consonant | i | î | o | ô | a | â | Final
 :--------:|:-:|:-:|:-:|:-:|:-:|:-:| :----:
 N/A       | ᐁ | ᐃ | ᐅ | ᐆ | ᐊ | ᐋ | N/A
-w         | ᐁᐧ | ᐏ | ᐓ | ᐕ | ᐘ | ᐚ | ᐤ
+w         | ᐏ | ᐏ | ᐓ | ᐕ | ᐘ | ᐚ | ᐤ
 p         | ᐯ | ᐱ | ᐳ | ᐴ | ᐸ | ᐹ | ᑊ
 t         | ᑌ | ᑎ | ᑐ | ᑑ | ᑕ | ᑖ | ᐟ
 k         | ᑫ | ᑭ | ᑯ | ᑰ | ᑲ | ᑳ | ᐠ
