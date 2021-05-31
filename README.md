@@ -13,16 +13,16 @@ The following table shows each grapheme in Woods Cree in the Colin Charles' Modi
   IPA     | CMRO | SRO
 :--------:|:----:|:--:
    ə      |  u   |  a
-  aː      |  a   |  â
+  aː      |  a   |  ā
 t͡ʃ ~ t͡s |  ch  |  c
    h      |  h   |  h
    ɪ      |  i   |  i
-  iː      |  e   |  î
+  iː      |  e   |  ī
    k      |  k   |  k
    m      |  m   |  m
    n      |  n   |  n
  o ~ ʊ    |  o   |  o
-oː ~ uː   |  oo  |  ô
+oː ~ uː   |  oo  |  ō
    p      |  p   |  p
  s ~ ʃ    |  s   |  s
    t      |  t   |  t
