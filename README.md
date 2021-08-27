@@ -6,9 +6,9 @@ This repository contains scripts and documentation for managing ALTLab's Woods C
 
 The database uses the [Data Format for Digital Linguistics][DaFoDiL] as its underlying data format—a set of recommendations for storing linguistic data in JSON.
 
-## Orthography
+## Orthographies
 
-The following table shows each grapheme in Woods Cree in the Colin Charles' Modified Roman Orthography (CMRO) and its equivalent in the Standard Roman Orthography (SRO), also with its corresponding value in the International Phonetic Alphabet (IPA).
+Woods Cree uses two orthographies: the Colin Charles' Modified Roman Orthography (CMRO) and the Standard Roman Orthography (SRO). The following table shows each grapheme in Woods Cree in the Colin Charles' Modified Roman Orthography (CMRO) and its equivalent in the Standard Roman Orthography (SRO), also with its corresponding value in the International Phonetic Alphabet (IPA).
 
   IPA     | CMRO | SRO
 :--------:|:----:|:--:
@@ -29,6 +29,8 @@ oː ~ uː   |  oo  |  ō
    ð      |  th  | th
    w      |  w   |  w
    j      |  y   |  y
+
+The internal orthography used by both the intelligent dictionary app and the FST is SRO. [This information is up to date as of 2021-08-27.]
 
 ## Syllabics
 
